@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Welcome to Inan's GitHub ✨</h1>
+  <img src="https://raw.githubusercontent.com/oka1313/oka1313/assets/inan_welcome_banner.png" alt="Welcome to Inan's GitHub Banner" width="100%">
 </div>
 <br>
 
